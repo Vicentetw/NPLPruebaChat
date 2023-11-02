@@ -1,0 +1,39 @@
+# Archivos de configuración
+*.ini
+*.env
+*.conf
+
+# Archivos de registro
+*.log
+
+# Archivos de caché
+__pycache__/
+*.pyc
+
+# Directorio de dependencias
+venv/
+env/
+env.bak/
+env1/
+env2/
+envs/
+chat/
+chat2/
+chat3/
+
+# Directorio de construcción
+build/
+dist/
+
+# Archivos generados por IDEs y editores de texto
+.vscode/
+.idea/
+*.pyc
+
+# Archivos de respaldo
+*.bak
+*.swp
+*~
+
+# Archivos de registro
+*.log
